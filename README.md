@@ -16,5 +16,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/x101011)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lebedenko.Eric)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-lebedenko&show_icons=true&theme=dark)
