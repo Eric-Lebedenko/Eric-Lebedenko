@@ -1,6 +1,6 @@
 [![Header](https://github.com/Eric-Lebedenko/Eric-Lebedenko/blob/main/assets/GIT%20BANNER.jpg)](http://www.eric-lebedenko.com/)
 
-## I'm a beginner C++ Developer
+## I'm a C++ Developer
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
