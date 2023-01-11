@@ -4,7 +4,7 @@
 
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C#](https://img.shields.io/badge/cblack?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 ![Qt](https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=Qt&logoColor=white)
 ### Platforms
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
