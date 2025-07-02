@@ -13,6 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lebedenko/)
 [![Instagram](https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eric.lebedenko/)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/x101011](https://t.me/realEricLMorgan))
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/realEricLMorgan/)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lebedenko.Eric)
 
