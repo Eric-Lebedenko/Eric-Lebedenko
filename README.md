@@ -1,4 +1,4 @@
-![banner](https://твоя_ссылка_на_картинку/banner.png)
+![banner](https://github.com/Eric-Lebedenko/Eric-Lebedenko/blob/main/assets/GIT%20BANNER.jpg)
 
 # 👋 Привет, я Eric L. Morgan
 
