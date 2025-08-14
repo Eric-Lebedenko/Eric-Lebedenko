@@ -20,17 +20,23 @@ Financial consultant & fintech developer building practical tools for analysis, 
 ---
 
 ## 🧰 Tech Stack
-<!-- Premium, спокойные бейджи -->
+
+![C++](https://img.shields.io/badge/C%2B%2B-black?logo=c%2B%2B&logoColor=white&labelColor=111)
+![C#](https://img.shields.io/badge/C%23-black?logo=csharp&logoColor=white&labelColor=111)
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=white&labelColor=111)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=white&labelColor=111)
+![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=white&labelColor=111)
+![CSS3](https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=white&labelColor=111)
+![Boost](https://img.shields.io/badge/Boost-black?logo=boost&logoColor=white&labelColor=111)
+![Value Investing](https://img.shields.io/badge/Value_Investing-black?labelColor=111)
+
+<!-- Дополнительные -->
+![Jupyter](https://img.shields.io/badge/Jupyter-black?logo=jupyter&logoColor=white&labelColor=111)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas&logoColor=white&labelColor=111)
-![NumPy](https://img.shields.io/badge/NumPy-black?logo=numpy&logoColor=white&labelColor=111)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?logo=plotly&logoColor=white&labelColor=111)
-![Streamlit](https://img.shields.io/badge/Streamlit-black?logo=streamlit&logoColor=white&labelColor=111)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi&logoColor=white&labelColor=111)
-![aiogram](https://img.shields.io/badge/aiogram-black?labelColor=111)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=white&labelColor=111)
-![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white&labelColor=111)
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs&logoColor=white&labelColor=111)
 ![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white&labelColor=111)
+![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white&labelColor=111)
+
 
 ---
 
