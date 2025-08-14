@@ -1,18 +1,35 @@
-[![Header](https://github.com/Eric-Lebedenko/Eric-Lebedenko/blob/main/assets/GIT%20BANNER.jpg)](http://www.eric-lebedenko.com/)
+# 👋 Привет, я Eric L. Morgan
 
-## I'm a C++ Developer
+💼 Финансовый консультант | 📈 Инвестор (Value Investing) | 💻 Программист
 
-### Languages
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-![Qt](https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=Qt&logoColor=white)
-### Platforms
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
-[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/pages/download/)
-### Follow Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lebedenko/)
-[![Instagram](https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eric.lebedenko/)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/realEricLMorgan/)
-[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lebedenko.Eric)
+## 🚀 О себе
+- 🇩🇪 Живу в Германии, работаю в сфере корпоративных и частных финансов
+- 📊 Инвестирую по стоимостному принципу Бенджамина Грэма
+- 🛠 Пишу автоматизации и аналитические инструменты для финансовых рынков
+- 🌍 Цель — стать мировым лидером в инвестициях и финансах
 
+---
+
+## 📂 Мои проекты
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [Telegram-bot-DVAG](https://github.com/Eric-Lebedenko/Telegram-bot-DVAG) | Бот для автоматизации поиска клиентов и партнёров DVAG | Python, aiogram |
+| [Finance Tools](#) | Скрипты для анализа акций, CAPM, ковариантности портфеля | Python, Pandas, Matplotlib |
+| [Investment Calculator](#) | Калькулятор доходности инвестиций с учётом дисконтирования | Python, Streamlit |
+
+---
+
+## 📊 Статистика
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Lebedenko&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Lebedenko&layout=compact&theme=dark)
+
+---
+
+## 📫 Контакты
+- ✉️ Email: [valerius.weichel@dvag.de](mailto:valerius.weichel@dvag.de)
+- 💼 LinkedIn: [linkedin.com/in/ericlmorgan](#)
+- 🌐 [ericlmorgan.com](https://ericlmorgan.com)
+
+---
