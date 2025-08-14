@@ -1,3 +1,5 @@
+![banner](https://твоя_ссылка_на_картинку/banner.png)
+
 # 👋 Привет, я Eric L. Morgan
 
 💼 Финансовый консультант | 📈 Инвестор (Value Investing) | 💻 Программист
@@ -28,8 +30,8 @@
 ---
 
 ## 📫 Контакты
-- ✉️ Email: [valerius.weichel@dvag.de](mailto:valerius.weichel@dvag.de)
+- ✉️ Email: [valerius.weichel@dvag.de](mailto:erik.lebedenko.888@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ericlmorgan](#)
-- 🌐 [ericlmorgan.com](https://ericlmorgan.com)
+- 🌐 Private page: [ericlmorgan.com](https://ericlmorgan.com)
 
 ---
