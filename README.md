@@ -30,8 +30,8 @@
 ---
 
 ## 📫 Контакты
-- ✉️ Email: [valerius.weichel@dvag.de](mailto:erik.lebedenko.888@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ericlmorgan](#)
+- ✉️ Email: [erik.lebedenko.888@gmail.com](mailto:erik.lebedenko.888@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/Eric-Lebedenko](#)
 - 🌐 Private page: [ericlmorgan.com](https://ericlmorgan.com)
 
 ---
