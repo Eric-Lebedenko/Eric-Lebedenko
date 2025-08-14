@@ -30,14 +30,6 @@ Financial consultant & fintech developer building practical tools for analysis, 
 ![Boost](https://img.shields.io/badge/Boost-black?logo=boost&logoColor=white&labelColor=111)
 ![Value Investing](https://img.shields.io/badge/Value_Investing-black?labelColor=111)
 
-<!-- Дополнительные -->
-![Jupyter](https://img.shields.io/badge/Jupyter-black?logo=jupyter&logoColor=white&labelColor=111)
-![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas&logoColor=white&labelColor=111)
-![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs&logoColor=white&labelColor=111)
-![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white&labelColor=111)
-![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white&labelColor=111)
-
-
 ---
 
 ## 📂 Selected Projects
