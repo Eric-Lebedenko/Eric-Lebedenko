@@ -64,11 +64,10 @@ Current focus areas:
 
 ## 📂 Selected Projects
 | Project | Description | Tech |
-|-------|------------|------|
-| **automation-scripts** | Small scripts for system tasks & automation | Python |
-| **linux-basics-labs** | Learning repository: Linux administration & CLI | Linux |
-| **networking-notes** | Networking fundamentals & lab notes | TCP/IP, DNS |
-| **telegram-bot** | Bot project for automation & interaction | Python |
+|---|---|---|
+| [Telegram-bot-DVAG](https://github.com/Eric-Lebedenko/Telegram-bot-DVAG) | Automated partner/client sourcing & intake | Python, aiogram |
+| Finance Tools *(private/soon)* | Stock/portfolio analytics (CAPM, factor views) | Python, Pandas, FastAPI |
+| Investment Calculator *(soon)* | ROI & DCF web app | Python, Streamlit |
 
 ---
 
