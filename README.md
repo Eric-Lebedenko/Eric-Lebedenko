@@ -1,9 +1,10 @@
 <!--
   Lux bilingual Profile README (EN/DE) for: Eric-Lebedenko
   Brand: Eric L. Morgan (ericlmorgan.com)
-  Sponsors:
-  - GitHub READMEs are sanitized; <iframe> will be stripped.
-  - Use the sponsor badge/button below (links to Sponsors + the card page).
+
+  Sponsors integration note:
+  - GitHub READMEs are sanitized; <iframe> embeds (including /button) are stripped.
+  - The "README-safe" approach is a clickable badge styled as a button.
 -->
 
 <p align="center">
@@ -15,8 +16,14 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/Eric-Lebedenko">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=white" alt="Sponsor"/>
+    <img
+      src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%20GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge"
+      alt="Sponsor button"
+    />
   </a>
+</p>
+
+<p align="center">
   <a href="https://ericlmorgan.com"><img src="https://img.shields.io/website?label=Website&up_message=online&down_message=offline&url=https%3A%2F%2Fericlmorgan.com" alt="website"/></a>
   <a href="https://linkedin.com/in/Eric-Lebedenko"><img src="https://img.shields.io/badge/LinkedIn-Eric%20Lebedenko-0A66C2?logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="mailto:erik.lebedenko.888@gmail.com"><img src="https://img.shields.io/badge/Email-erik.lebedenko.888%40gmail.com-333333?logo=gmail&logoColor=white" alt="email"/></a>
@@ -39,18 +46,7 @@
 > “Strategy without execution is hallucination.”
 
 ### Support (GitHub Sponsors)
-If you find my work useful, you can support it here:
-
-<p>
-  <a href="https://github.com/sponsors/Eric-Lebedenko">
-    <img src="https://img.shields.io/badge/Sponsor%20me-GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor me"/>
-  </a>
-  <a href="https://github.com/sponsors/Eric-Lebedenko/card">
-    <img src="https://img.shields.io/badge/View-Sponsor%20Card-111111?style=for-the-badge" alt="Sponsor card"/>
-  </a>
-</p>
-
-> Note: GitHub READMEs don’t render iframes. The badge above is the “README-safe” integration.
+If you find my work useful, the sponsor button above is the quickest way to support it.
 
 ### What I do (ops-first)
 - Build **stable environments** with clean defaults
@@ -112,18 +108,7 @@ Angehender **Fachinformatiker (Systemintegration)** mit Fokus auf **praxisnahe I
 > „Strategie ohne Umsetzung ist Halluzination.“
 
 ### Support (GitHub Sponsors)
-Wenn dir meine Arbeit hilft, kannst du sie hier unterstützen:
-
-<p>
-  <a href="https://github.com/sponsors/Eric-Lebedenko">
-    <img src="https://img.shields.io/badge/Sponsor%20me-GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor me"/>
-  </a>
-  <a href="https://github.com/sponsors/Eric-Lebedenko/card">
-    <img src="https://img.shields.io/badge/Ansehen-Sponsor%20Card-111111?style=for-the-badge" alt="Sponsor card"/>
-  </a>
-</p>
-
-> Hinweis: GitHub READMEs rendern keine iFrames. Die Badges oben sind die “README-sichere” Integration.
+Wenn dir meine Arbeit hilft, ist der Sponsor-Button oben der schnellste Weg zur Unterstützung.
 
 ### Was ich mache (Ops-first)
 - **stabile IT-Umgebungen** mit klaren Standards aufbauen
