@@ -1,171 +1,164 @@
 <!--
-  Lux bilingual Profile README (EN/DE) for: Eric-Lebedenko
-  Brand: Eric L. Morgan (ericlmorgan.com)
-
-  Sponsors integration note:
-  - GitHub READMEs are sanitized; <iframe> embeds (including /button) are stripped.
-  - The "README-safe" approach is a clickable badge styled as a button.
+Premium GitHub Profile README
+Brand: Eric L. Morgan
+Target: Fachinformatiker für Systemintegration · IT Infrastructure · Automation
+Market: Germany (Ausbildung, Junior SysAdmin, IT Support, NOC)
 -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=160&section=header&text=Eric%20L.%20Morgan&fontSize=50&fontAlignY=40&desc=System%20Integration%20%C2%B7%20Automation%20%C2%B7%20Reliable%20Engineering&descAlignY=70"
-    alt="header"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=200&section=header&text=Eric%20L.%20Morgan&fontSize=48&fontAlignY=35&desc=Fachinformatiker%20(Systemintegration)%20·%20Automation%20·%20IT%20Infrastructure&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/Eric-Lebedenko">
-    <img
-      src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%20GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge"
-      alt="Sponsor button"
-    />
+  <a href="https://ericlmorgan.com">
+    <img src="https://img.shields.io/badge/Website-ericlmorgan.com-black?style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/Eric-Lebedenko">
+    <img src="https://img.shields.io/badge/LinkedIn-Eric%20Lebedenko-0A66C2?logo=linkedin&style=for-the-badge"/>
+  </a>
+  <a href="mailto:erik.lebedenko.888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-darkred?style=for-the-badge"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://ericlmorgan.com"><img src="https://img.shields.io/website?label=Website&up_message=online&down_message=offline&url=https%3A%2F%2Fericlmorgan.com" alt="website"/></a>
-  <a href="https://linkedin.com/in/Eric-Lebedenko"><img src="https://img.shields.io/badge/LinkedIn-Eric%20Lebedenko-0A66C2?logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:erik.lebedenko.888@gmail.com"><img src="https://img.shields.io/badge/Email-erik.lebedenko.888%40gmail.com-333333?logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://github.com/Eric-Lebedenko?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repos-black" alt="repos"/></a>
-</p>
-
-<p align="center">
-  <b>Language:</b>
-  <a href="#english">English</a> ·
-  <a href="#deutsch">Deutsch</a>
+<b>Language:</b> <a href="#english">English</a> · <a href="#deutsch">Deutsch</a>
 </p>
 
 ---
 
 <a id="english"></a>
+# 🇬🇧 English — Professional Profile
 
-## English — Mission & Profile
-**Aspiring Fachinformatiker (System Integration)** focused on **practical IT**, **automation**, and **reliable system design**.
+**Aspiring Fachinformatiker (System Integration)** with focus on  
+**IT infrastructure, automation, networking and production-grade reliability.**
 
-> “Strategy without execution is hallucination.”
+> I build systems that work when nobody is watching.
 
-### Support (GitHub Sponsors)
-If you find my work useful, the sponsor button above is the quickest way to support it.
+---
 
-### What I do (ops-first)
-- Build **stable environments** with clean defaults
-- Automate repeatable tasks (scripts, CLI tools, small pipelines)
-- Document systems like production: **runbooks, checklists, change notes**
-- Troubleshoot with a structured workflow (signal > noise)
+## 🧠 What I bring
+- Cisco-based networking knowledge (routing, switching, TCP/IP, VLANs)
+- Strong **C++** foundation (logic, memory, performance discipline)
+- Automation with **Python, Bash & CLI tools**
+- Systems mindset: logs, backups, monitoring, least privilege, runbooks
 
-### Focus areas (2026)
-- Linux & Windows administration (services, logs, permissions, troubleshooting)
-- Networking fundamentals (TCP/IP, DNS, DHCP, VLAN basics)
-- Containers & virtualization (Docker, Compose patterns)
-- Security fundamentals (least privilege, patching hygiene, secrets discipline)
+---
 
-### Tech stack (practical)
-**Languages:** Python · C++ · C# · JavaScript  
-**Tools:** Git/GitHub · Linux · Docker · SQL (basic)
+## 🔧 Core Skills
+
+**Infrastructure**
+- Linux & Windows Administration
+- DNS, DHCP, IP, VLAN, Firewall basics
+- Docker & containerized services
+- Backup, monitoring & troubleshooting
+
+**Programming**
+- C++ (core language, memory, structures)
+- Python (automation, scripts, bots)
+- SQL (basic)
+- Git, GitHub, versioned workflows
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,linux,docker,git,github,sqlite&perline=12" alt="skills" />
-  </a>
+<img src="https://skillicons.dev/icons?i=linux,docker,python,cpp,git,github,windows,sqlite"/>
 </p>
 
-### Selected projects
-| Project | Purpose | Tech |
-|---|---|---|
-| **[Telegram-bot-DVAG](https://github.com/Eric-Lebedenko/Telegram-bot-DVAG)** | automated partner/client sourcing & intake | Python, aiogram |
-| **Finance Tools** *(private/soon)* | stock/portfolio analytics (CAPM, factor views) | Python, Pandas, FastAPI |
-| **Investment Calculator** *(soon)* | ROI & DCF web app | Python, Streamlit |
+---
 
-### How I like systems to look
-- **Repeatable:** idempotent scripts, predictable deploys  
-- **Observable:** logs you can use, not just collect  
-- **Safe-by-default:** minimal permissions, explicit configs, no secrets in git  
-- **Operable:** “How to run it” is part of the deliverable
+## 🎓 Training & Certifications
+- **Cisco Networking Academy** (Networking Fundamentals, Routing, Switching)
+- **C++ Programming** (core language, logic, memory)
+- Linux system practice (self-hosted servers, automation)
+- GitHub, CI/CD basics
 
-<details>
-  <summary><b>Mini runbook template (copy/paste)</b></summary>
+---
 
-**System:**  
-**Purpose:**  
-**Start/Stop:**  
-**Health check:**  
-**Logs:**  
-**Backup/restore:**  
-**Common incidents:**  
-**Rollback:**  
-**Owner:**  
+## 📂 Selected Projects
 
-</details>
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Telegram-bot-DVAG** | Automated lead intake, messaging, workflow | Python, APIs |
+| **Finance Tools** | Data processing, analytics, CAPM models | Python, Pandas |
+| **Infrastructure Lab** *(soon)* | Linux servers, Docker, monitoring | Linux, Docker |
+
+---
+
+## 🧩 How I build systems
+- Repeatable deployments  
+- Minimal permissions  
+- Logs that actually help  
+- Automation instead of clicking  
+- Documentation as part of delivery  
+
+---
+
+## 🔗 Professional Links
+- Website: https://ericlmorgan.com  
+- LinkedIn: https://linkedin.com/in/Eric-Lebedenko  
+- Email: erik.lebedenko.888@gmail.com  
 
 ---
 
 <a id="deutsch"></a>
+# 🇩🇪 Deutsch — Berufsprofil
 
-## Deutsch — Mission & Profil
-Angehender **Fachinformatiker (Systemintegration)** mit Fokus auf **praxisnahe IT**, **Automatisierung** und **zuverlässige Systemdesigns**.
+Angehender **Fachinformatiker für Systemintegration** mit Fokus auf  
+**IT-Infrastruktur, Netzwerke, Automatisierung und stabile Systeme.**
 
-> „Strategie ohne Umsetzung ist Halluzination.“
-
-### Support (GitHub Sponsors)
-Wenn dir meine Arbeit hilft, ist der Sponsor-Button oben der schnellste Weg zur Unterstützung.
-
-### Was ich mache (Ops-first)
-- **stabile IT-Umgebungen** mit klaren Standards aufbauen
-- wiederkehrende Aufgaben automatisieren (Skripte, CLI-Tools, kleine Pipelines)
-- Systeme wie in der Praxis dokumentieren: **Runbooks, Checklisten, Change Notes**
-- strukturiert troubleshoot-en (Signal statt Rauschen)
-
-### Schwerpunkte (2026)
-- Linux- & Windows-Administration (Services, Logs, Rechte, Troubleshooting)
-- Netzwerk-Grundlagen (TCP/IP, DNS, DHCP, VLAN-Basics)
-- Container & Virtualisierung (Docker, Compose Patterns)
-- Security Basics (Least Privilege, Patch-Hygiene, Secrets-Disziplin)
-
-### Tech-Stack (praxisnah)
-**Sprachen:** Python · C++ · C# · JavaScript  
-**Tools:** Git/GitHub · Linux · Docker · SQL (basic)
-
-### Ausgewählte Projekte
-| Projekt | Ziel | Tech |
-|---|---|---|
-| **[Telegram-bot-DVAG](https://github.com/Eric-Lebedenko/Telegram-bot-DVAG)** | automatisierte Partner-/Kundenaufnahme | Python, aiogram |
-| **Finance Tools** *(private/soon)* | Analytics (CAPM, Faktor-Views) | Python, Pandas, FastAPI |
-| **Investment Calculator** *(soon)* | ROI- & DCF-Web-App | Python, Streamlit |
-
-### Wie ich Systeme „kashér“ halte
-- **Wiederholbar:** idempotente Skripte, reproduzierbare Schritte  
-- **Beobachtbar:** Logs, die wirklich beim Debugging helfen  
-- **Sicher per Default:** minimale Rechte, explizite Configs, keine Secrets im Repo  
-- **Betriebsfähig:** “How to operate it” gehört ins Projekt
-
-<details>
-  <summary><b>Mini-Runbook Vorlage (copy/paste)</b></summary>
-
-**System:**  
-**Zweck:**  
-**Start/Stop:**  
-**Health Check:**  
-**Logs:**  
-**Backup/Restore:**  
-**Häufige Incidents:**  
-**Rollback:**  
-**Owner:**  
-
-</details>
+> Ich baue Systeme, die auch ohne Aufsicht zuverlässig laufen.
 
 ---
 
-## Contact
-- Email: **erik.lebedenko.888@gmail.com**
-- LinkedIn: https://linkedin.com/in/Eric-Lebedenko
-- Website: https://ericlmorgan.com
+## 🧠 Was ich mitbringe
+- Cisco-Netzwerkkenntnisse (Routing, Switching, TCP/IP, VLAN)
+- Sehr gutes Fundament in **C++**
+- Automatisierung mit **Python & Bash**
+- Systemdenken: Logs, Backups, Monitoring, Sicherheit
 
-<sub>© Ericlmorgan.com (Erik Lebedenko). All rights reserved.</sub>
+---
+
+## 🔧 Kernkompetenzen
+
+**IT & Infrastruktur**
+- Linux & Windows Administration
+- Netzwerke (DNS, DHCP, IP, VLAN)
+- Docker & Container
+- Backup, Monitoring, Troubleshooting
+
+**Programmierung**
+- C++
+- Python
+- SQL (Grundlagen)
+- Git & GitHub
+
+---
+
+## 🎓 Ausbildung & Kurse
+- **Cisco Networking Academy**
+- **C++ Programmierung**
+- Linux-Server Praxis
+- Git & Versionskontrolle
+
+---
+
+## 📂 Projekte
+
+| Projekt | Zweck | Tech |
+|--------|------|------|
+| **Telegram-bot-DVAG** | Automatisierte Workflows | Python |
+| **Finance Tools** | Datenanalyse | Python |
+| **Infrastructure Lab** *(bald)* | IT-Systeme | Linux, Docker |
+
+---
+
+## 🧩 Mein Arbeitsstil
+- Wiederholbare Setups  
+- Sicherheit per Default  
+- Automatisierung statt manuelle Arbeit  
+- Dokumentation für den Betrieb  
+
+---
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=Build%20reliable%20systems&fontSize=18&fontAlignY=70"
-    alt="footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0A66C2&height=80&section=footer&text=Build%20Reliable%20Systems&fontSize=20"/>
 </p>
