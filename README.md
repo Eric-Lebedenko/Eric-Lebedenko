@@ -22,8 +22,8 @@ Market: Germany · Ausbildung · Junior SysAdmin · Infrastructure
   </a>
   <a href="mailto:erik.lebedenko.888@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"/>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eric-Lebedenko&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF" />
+    <img src="https://img.shields.io/github/stars/Eric-Lebedenko?style=for-the-badge&label=%E2%AD%90%20Total%20Stars&color=FFFFFF&labelColor=000000" />
+  </a>
 </p>
 
 <p align="center">
