@@ -69,9 +69,9 @@ I build environments that work even when nobody is watching.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| Telegram-bot-DVAG | Automated workflows & lead intake | Python |
-| Finance Tools | Data analytics & CAPM | Python |
-| Infrastructure Lab *(soon)* | Linux, Docker, Networking | Linux, Docker |
+| Telegram-bot-DVAG *soon*| Automated workflows & lead intake | Python |
+| [kick-tg-rewards](https://github.com/Eric-Lebedenko/kick-tg-rewards) | Open-source FastAPI OAuth (Kick/Twitch) + static profile UI (Steam trade link, follows) + Telegram bot entrypoint. | Python, C#, JSON, API |
+| [cpp-game-injector](https://github.com/Eric-Lebedenko/cpp-game-injector) | Simple injector using C++/kernel32.dll. | C++, kernel32.dll |
 
 ---
 
